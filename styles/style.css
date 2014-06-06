@@ -1,0 +1,31 @@
+.ppt-image {
+    background-image: url("../images/tralala.jpg");
+    width: 640px;
+    height: 360px;
+    background-size: 100%;
+    font-family: Calibri;
+}
+.slide-header{
+    color : #DE9A58;
+    font-size: 40px;
+}
+.ul-font{
+    color: lightgrey;
+    font-size: 24px;
+}
+.div-transparency{
+    border-width: 2px;
+    border-style: solid;
+    background-color: rgba(148,148,148,0.3);
+}
+.p-text{
+    font-size:large;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: burlywood;
+    opacity: 1;
+}
+span{
+    color: #DE9A58;
+}

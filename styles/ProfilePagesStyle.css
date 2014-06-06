@@ -1,0 +1,54 @@
+.home-body{
+    background-image: url("../images/home-background.jpg");
+    background-size: 130%;
+}
+.all-font{
+    font-family: Exocet;
+}
+.div-transparency-home {
+    border-width: 2px;
+    border-style: solid;
+    background-color: rgba(250, 10, 10, 0.3);
+    margin-right: 300px;
+}
+.profile-body{
+    background-image: url("../images/profile-page-background.jpg");
+    background-size: 100%;
+}
+.div-transparency-profile {
+    border-width: 2px;
+    border-style: solid;
+    background-color: rgba(10, 10, 250, 0.3);
+    margin-right: 700px;
+}
+.all-font-profile{
+    font-family: Exocet;
+    color: white;
+}
+.all-font-small{
+    font-family: ExocetSmall;
+    color: white;
+}
+.friends-body{
+    background-image: url("../images/friends-background.jpg");
+    background-size: 110%;
+}
+.div-transparency-friends{
+    border-width: 2px;
+    border-style: solid;
+    background-color: rgba(128,128,128,0.3);
+    margin-right: 700px;
+}
+@font-face {
+    font-family: Exocet;
+    src: url("../font/Exocet1.ttf");
+}
+@font-face{
+    font-family: ExocetSmall;
+    src: url("../font/Exocet2.ttf");
+}
+.profile-pic{
+    border-style: solid;
+    border: 2px;
+}
+
